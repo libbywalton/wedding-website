@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root {
+  --color-background: #F8F9FA;
+  
+  --color-cornflower: #BBDEFA;
+  --font-beth: var(--font-beth);
+  --font-patrick: var(--font-patrick);
+}
+
+body {
+  background: var(--color-background);
+}
+
+div {
+  background: var(--color-background);
+}
+
+p, a, li, span, button, form {
+  font-family: var(--font-patrick);
+  color: var(--color-cornflower);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-beth);
+  color: var(--color-cornflower);
+}
