@@ -1,6 +1,6 @@
 # Wedding Website – Full Stack Application
 
-A complete wedding website comprising a Next.js frontend and an Express + PostgreSQL backend. This README covers the whole project: setup, development, testing, and deployment.
+A complete wedding website comprising a Next.js frontend and an Express + PostgreSQL backend. This README covers the whole project: setup, development and testing.
 
 ## Overview
 - Frontend: Next.js 16 (App Router), React 19, Tailwind CSS
